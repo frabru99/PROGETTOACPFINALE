@@ -477,7 +477,7 @@ var check = function(firstcall){
             //Se sono già sul primo tab triggero il click
             if (el.getAttribute("id")=="gestisciprenotazionitab"){
                 $(el).trigger("click");
-                $(".alert").text("E' appena stata richiesta una prenotazione ");
+                $(".alert").text("C'è stata una modifica alle prenotazioni ");
                     //Pulisco sul click
                     $(".alert").on("click",()=>{
                         $(".alert").text("");
