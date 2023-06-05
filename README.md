@@ -32,4 +32,11 @@ In caso di problemi controllare che il _package.json_ contenga le versioni citat
     In caso di errori al lancio dei comandi accertarsi che sia presente nodemon nelle dev-dependencies del package.json
     
 
+## TEST DELL'APPLICAZIONE
 
+1. Inserire una news di ogni tipo nella vista amministratore.
+2. Controllare l'update delle news nella vista cliente.
+3. Inserire uno o più corsi nella vista amministratore.
+4. Effettuare una o più prenotazioni nella vista cliente. (Non è consentito prenotare più volte lo stesso corso)
+5. Gestire le prenotazioni nella vista amministratore.
+6. Controllare nelle rispettive viste che lo stato delle prenotazioni è stato aggiornato.
