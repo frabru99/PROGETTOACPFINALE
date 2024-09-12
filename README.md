@@ -19,6 +19,7 @@ Sono state utilizzate le seguenti versioni dei pacchetti NODE:
 > _mongoose_ : 5.13.17\
 > _nodemon_ : 2.0.22
 
+| ciao
 In caso di problemi controllare che il _package.json_ contenga le versioni citate sopra
 
 ## GUIDA ALL' AVVIO DELL'APPLICAZIONE
